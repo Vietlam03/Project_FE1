@@ -1,0 +1,37 @@
+header .background{
+    text-align: center;
+    align-content: center;
+    height: 630px !important;
+    height: auto;
+}
+header .nav{
+    width: auto;
+}
+.getstart {
+    text-align: center;
+    align-items: center;
+   border: solid 1px;
+   width: 200px;
+    margin-right: auto;
+   margin-left: auto;
+   background-color: white;
+   border-color: white;
+   color: black;
+}
+.getstart a{
+    text-decoration-line: none;
+   color: black;
+   text-align: center;
+}
+.main img{
+    width: auto;
+}
+footer{
+    padding-top: 100px;
+}
+footer .download {
+    height: 500px !important;
+    height: auto;
+    text-align: center;
+    align-content: center;
+}
